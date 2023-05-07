@@ -1,0 +1,9 @@
+NAME; DESCRIPTION; QUANTITY
+Oxygen siphon; Take a deep breath and relax, literally, because you can steal 2 oxygens from your chosen victim; 3
+Shield; Block an attack from another astronaut, discarding both the shield and action cards. (Note that you cannot play a Shield if you are under the influence of a solar flare; 4
+Hack suit; Select a player, look at their entire hand, and steal a card of your choosing! This is a magic bullet.; 3
+Tractor beam; Steal a card from another players hand at random; 4
+Rocket booster; Move forward 1 space, without discarding any oxygen.; 4
+Laser blast; Pick another player and knock them back 1 space. (Discard the Space Card behind them and push them back.) Cannot be played on a rival that is on the starting space.; 4
+Hole in suit; Punch a hole in a rival's suit, forcing them to discard a single oxygen from their hand. (This could kill them!); 4
+Tether; Move forward 1 space, and knock another player back 1 space. This card does not obey the laws of physics. Cannot be played on a rival that is on the starting space; 4

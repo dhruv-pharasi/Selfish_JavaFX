@@ -1,0 +1,1 @@
+The game can be played by compiling the GameApp.java file or by running the command ./run.sh in the terminal. The game includes many sound effects for enhancing user experience.

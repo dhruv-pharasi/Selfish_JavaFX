@@ -1,0 +1,11 @@
+NAME; DESCRIPTION; QUANTITY
+Blank space; This card is blank. Nothing to see here; 9
+Useful junk; You salvage a load of scrap from a nearby ship wreckage. Pick up 1 game card; 5
+Mysterious nebula; You float through an incomprehensible cloud of strange dust and gasses. Pick up 2 game cards; 2
+Hyperspace; The space-time continuum bends and you are transported. Punch it, Chewie! Move forward one space; 1
+Meteoroid; Lose items to narrowly avoid being obliterated. If you have 6 or more cards, discard 2.; 4
+Cosmic radiation; You are hit by deadly cosmic rays, slowly boiling your insides. Discard 1 oxygen to make it through.; 6
+Asteroid field; Giant chunks of fast-moving rock block your path. Discard 2 oxygens to navigate through.; 2
+Gravitational anomaly; An invisible force has pulled you back in time. Maybe. You can't remember. Move back a space; 4
+Wormhole; Oh dear. You have been sucked into another dimension. Swap places with another player of your choice.; 4
+Solar flare; Your eyeballs have been partly melted. You cannot play any actions while this card is directly behind you.; 5
